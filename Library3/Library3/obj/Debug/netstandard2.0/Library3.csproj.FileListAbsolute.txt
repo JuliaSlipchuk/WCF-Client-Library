@@ -1,0 +1,14 @@
+D:\Универ\Системн прогр\Lab6\Library3\Library3\bin\Debug\netstandard2.0\Library3.deps.json
+D:\Универ\Системн прогр\Lab6\Library3\Library3\bin\Debug\netstandard2.0\Library3.dll
+D:\Универ\Системн прогр\Lab6\Library3\Library3\bin\Debug\netstandard2.0\Library3.pdb
+D:\Универ\Системн прогр\Lab6\Library3\Library3\bin\Debug\netstandard2.0\Library2.dll
+D:\Универ\Системн прогр\Lab6\Library3\Library3\bin\Debug\netstandard2.0\Library1.dll
+D:\Универ\Системн прогр\Lab6\Library3\Library3\bin\Debug\netstandard2.0\Library2.pdb
+D:\Универ\Системн прогр\Lab6\Library3\Library3\bin\Debug\netstandard2.0\Library1.pdb
+D:\Универ\Системн прогр\Lab6\Library3\Library3\obj\Debug\netstandard2.0\Library3.csprojAssemblyReference.cache
+D:\Универ\Системн прогр\Lab6\Library3\Library3\obj\Debug\netstandard2.0\Library3.csproj.CoreCompileInputs.cache
+D:\Универ\Системн прогр\Lab6\Library3\Library3\obj\Debug\netstandard2.0\Library3.AssemblyInfoInputs.cache
+D:\Универ\Системн прогр\Lab6\Library3\Library3\obj\Debug\netstandard2.0\Library3.AssemblyInfo.cs
+D:\Универ\Системн прогр\Lab6\Library3\Library3\obj\Debug\netstandard2.0\Library3.csproj.CopyComplete
+D:\Универ\Системн прогр\Lab6\Library3\Library3\obj\Debug\netstandard2.0\Library3.dll
+D:\Универ\Системн прогр\Lab6\Library3\Library3\obj\Debug\netstandard2.0\Library3.pdb
